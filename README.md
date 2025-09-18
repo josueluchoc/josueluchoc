@@ -54,10 +54,10 @@ Basado en Lima, Perú 🇵🇪, abierto a colaborar en proyectos que generen imp
   <a href="https://www.linkedin.com/in/josueluchocruzado/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/JogaLuck">
+  <a href="https://github.com/josueluchoc">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/">
+  <a href="https://www.instagram.com/josueluchoc">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
